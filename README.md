@@ -17,4 +17,24 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 3.	Power BI for creation of dashboard and visualization
    
 ## Insights and Findings
+
+•	Male patients had higher blood pressure than the female patients. Male- 69.08% while female – 30.92%
+
+•	Male patients were prone to chest pains than the female patients. Female: Male -39K:18K
+
+•	There is increased in heart rate in male patients than female patients. 
+
+•	Finally, female patients had more heart disease than the male patients. Percentage of female patients with disease is 70.85% and without disease is 29.15% while that of male patients with disease 39.67% and without disease is 60.33%
+
+## Conclusion
+The analysis revealed that females generally irrespective of age difference are prone to having heart disease.
+
+## Recommendations
+•	Regular checkups at intervals should be carried to diagnose heart disease in time and commence treatment
+
+•	Female patients should be given priority in hospitals as they are the most venerable. 
+
+
+
+
 	
