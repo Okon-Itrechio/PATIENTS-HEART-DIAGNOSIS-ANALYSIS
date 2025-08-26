@@ -16,5 +16,5 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 2.	SQL Server for coding
 3.	Power BI for creation of dashboard and visualization
    
-	## Insights and Findings
+## Insights and Findings
 	
