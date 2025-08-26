@@ -15,6 +15,6 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 1.	Microsoft Excel for data cleaning
 2.	SQL Server for coding
 3.	Power BI for creation of dashboard and visualization
-
-4.	## Insights and Findings
-5.	
+   
+	## Insights and Findings
+	
