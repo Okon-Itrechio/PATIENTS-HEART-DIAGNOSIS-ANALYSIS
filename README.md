@@ -1,4 +1,4 @@
-# PATIENTS-HEART-DAIGNOSTIC-ANALYSIS
+# PATIENTS-HEART-DIAGNOSTIC-ANALYSIS
 ## Project Overview
 
 This project aims at analyzing key insight from patient’s checkup at hospital to determine whether they have heart disease using factors such as blood pressure, blood sugar, heart rate, chest pains and cholesterol.
