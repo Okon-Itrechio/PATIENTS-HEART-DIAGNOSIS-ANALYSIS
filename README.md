@@ -18,21 +18,23 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
    
 ## Insights and Findings
 
-•	Male patients had higher blood pressure than the female patients. Male- 69.08% while female – 30.92%
+•	There are 713 Male patients equivalent to 69.6 percent and 312 Female patients which is equivalent to 30.4 percent.
 
-•	Male patients were prone to chest pains than the female patients. Female: Male -39K:18K
+•	Male patients had average maximum heart rate of 150.83 while female patients had 148.36. 
 
-•	There is increased in heart rate in male patients than female patients. 
+•	Ratio of average age by fasting blood sugar of Male to Female patients that were positive is 58.7 : 56.4 while for negative is 55.4 : 53.3
 
-•	Finally, female patients had more heart disease than the male patients. Percentage of female patients with disease is 70.85% and without disease is 29.15% while that of male patients with disease 39.67% and without disease is 60.33%
+•	Finally, 413 (57.92 percent) Male patients were diagnosed with heart diseases while 300 (42.08 percent) were without heart disease and 86 (27.56 percent) Female patients were diagnosed with heart diseases while 226    (72.44 percent) were without heart disease.
 
 ## Conclusion
-The analysis revealed that females generally irrespective of age difference are prone to having heart disease.
+The analysis revealed that irrespective of gender or age difference, heart disease can develop in any sex and at any age.
+
+Male patients were diagnosed with more heart diseases that the female patients.
 
 ## Recommendations
-•	Regular checkups at intervals should be carried to diagnose heart disease in time and commence treatment
+•	Regular checkups at intervals should be carried on bot sex to diagnose heart disease in time and commence treatment
 
-•	Female patients should be given priority in hospitals as they are the most venerable. 
+•	Male patients are more prone to contacting heart disease and should be given priority in hospitals as they are the most venerable. 
 
 
 
