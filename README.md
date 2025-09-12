@@ -1,7 +1,7 @@
 # HEART-DIAGNOSIS-ANALYSIS
 ## Project Overview
 
-This project aims at analyzing key insight from patient’s checkup at hospital to determine whether they have heart disease using factors such as blood pressure, blood sugar, heart rate, chest pains and cholesterol.
+This project aims at analyzing key insight from patient’s checkup at hospital to determine whether they have heart disease using factors such as blood pressure, blood sugar, heart rate, chest pains and cholesterol level.
 
 ## Data Source
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 •	Ratio of average age by fasting blood sugar of Male to Female patients that were positive is 58.7 : 56.4 while for negative is 55.4 : 53.3
 
-•	Finally, 413 (57.92 percent) Male patients were diagnosed with heart diseases while 300 (42.08 percent) were without heart disease and 86 (27.56 percent) Female patients were diagnosed with heart diseases while 226    (72.44 percent) were without heart disease.
+•	Finally, 413 (57.92 percent) Male patients were diagnosed with heart diseases while 300 (42.08 percent) were without heart disease and 86 (27.56 percent) Female patients were diagnosed with heart diseases while 226          (72.44 percent) were without heart disease.
 
 ## Conclusion
 The analysis revealed that irrespective of gender or age difference, heart disease can develop in any sex and at any age.
