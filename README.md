@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 ## Methodology
 •	Data Cleaning and Preparation: The dataset was cleaned and numbers were also replaced with values in fasting blood sugar column (0-False, 1-True) and target column (0-No disease, 1-Disease).
 
-•	Data Visualization: Power BI was used to create dashboards and visual reports to highlight key metrics such as fasting blood sugar by age, chest pain by age, resting blood pressure by sex, heart rate by age and disease by age.
+•	Data Visualization: Power BI was used to create dashboards and visual reports to highlight key metrics such as average age by fasting blood sugar, chest pain type by gender, gender distribution, total count by disease     presence and average maximium heart rate.
 
 ## Tools
 1.	Microsoft Excel for data cleaning
@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
    
 ## Insights and Findings
 
-•	There are 713 Male patients equivalent to 69.6 percent and 312 Female patients which is equivalent to 30.4 percent.
+•	There are 713 Male patients equivalent to 69.6 percent and 312 Female patients which is equivalent to 30.4 percent. Total number of patients is 1025
 
 •	Male patients had average maximum heart rate of 150.83 while female patients had 148.36. 
 
