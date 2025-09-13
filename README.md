@@ -32,9 +32,9 @@ The analysis revealed that irrespective of gender or age difference, heart disea
 Male patients were diagnosed with more heart diseases that the female patients.
 
 ## Recommendations
-•	Regular checkups at intervals should be carried on bot sex to diagnose heart disease in time and commence treatment
+•	Regular checkups at intervals should be carried for both sex to diagnose heart disease on time and commence treatment immediately.
 
-•	Male patients are more prone to contacting heart disease and should be given priority in hospitals as they are the most venerable. 
+•	Male patients are more prone to contacting heart disease and should be given priority during checkup as they are the most venerable. 
 
 
 
